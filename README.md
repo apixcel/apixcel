@@ -38,11 +38,9 @@ We help businesses and startups build:
 - Stable deployments & long-term maintenance  
 
 We combine **clean design** with **high-performance code** to deliver production-ready solutions.
-
 ---
 
 ## 💼 What We Do
-
 We provide end-to-end services:
 
 - 🎨 **UI/UX Design**  
